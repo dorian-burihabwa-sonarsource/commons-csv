@@ -183,6 +183,9 @@
     <commons.release.isDistModule>true</commons.release.isDistModule>
     <commons.releaseManagerName>Gary Gregory</commons.releaseManagerName>
     <commons.releaseManagerKey>86fdc7e2a11262cb</commons.releaseManagerKey>
+    <!-- SONARCLOUD RELATED PROPERTIES -->
+    <sonar.organization>dorian-burihabwa-sonarsource</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
   </properties>
 
   <build>
